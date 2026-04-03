@@ -1,10 +1,10 @@
 ---
 tags: [item/weapon, rank/legendary, faction/wanderers_of_nature, type/스태프]
-aliases: [Life of Linwood, 린우드의 생명, 천년 참나무 지팡이, 생명 스태프]
+aliases: [Life of Linwood, [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/16. 스태프 (Staves)/린우드의 생명 (Sera Linwood's Life of Linwood)]], 천년 참나무 지팡이, 생명 스태프]
 type: item
 ---
 
-# 린우드의 생명 (Sera Linwood's Life of Linwood)
+# [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/16. 스태프 (Staves)/린우드의 생명 (Sera Linwood's Life of Linwood)]] (Sera Linwood's Life of Linwood)
 
 > *"이 지팡이가 닿는 곳에는 생명이 돌아와요. 시들어도 괜찮아요."*
 
@@ -58,7 +58,7 @@ type: item
 실바나는 세라의 지팡이를 처음 보고 말했다. "드라이어드가 축복했군. 이 가문은 오래전부터 선택받았어."
 
 ### 전승
-세라가 지팡이를 통해 에반에게 선물한 '세계수의 씨앗'도 이 지팡이의 생명력을 빌려 만든 것이다. 지팡이의 씨앗 생성 능력이 세계수의 씨앗을 임시 복제할 수 있게 한 것으로 알려졌다.
+세라가 지팡이를 통해 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]에게 선물한 '세계수의 씨앗'도 이 지팡이의 생명력을 빌려 만든 것이다. 지팡이의 씨앗 생성 능력이 세계수의 씨앗을 임시 복제할 수 있게 한 것으로 알려졌다.
 
 ### 관련 캐릭터
 - [[06. 세라 린우드 (Sera Linwood)]]
@@ -70,7 +70,7 @@ type: item
 
 | 챕터/화 | 장면 요약 |
 |--------|----------|
-| Act 1 | 에반에게 세계수의 씨앗을 건네는 장면 — 지팡이에서 씨앗이 자라나온다 |
+| Act 1 | [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]에게 세계수의 씨앗을 건네는 장면 — 지팡이에서 씨앗이 자라나온다 |
 | Act 3 | 블루밍 가든으로 전장을 꽃밭으로 만들어 적군의 전투 의지를 꺾는 장면 |
 
 ---
@@ -85,3 +85,15 @@ type: item
 ## 🔗 관련 문서
 - [[자연의 방랑자 (Wanderers of Nature)]]
 - [[06. 세라 린우드 (Sera Linwood)]]
+
+
+> [!NOTE]
+> **[ 에픽 섭리와 유구한 운명 (Epic Providence) ]**
+> 이 위대한 기록은 아스트라리스 대륙의 장엄한 역사와 신비로운 대자연의 섭리를 품고 있습니다. 얽히고설킨 영웅들의 서사와 찬란한 기적들은, 파멸이 아닌 경이로움(Wonder)을 세계에 흩뿌리며 거대한 운명의 수레바퀴를 굴립니다.
+> 
+> **[ [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]] 개입의 낭만적 당위성 (The Anchor) ]**
+> 수백 년간 이어져 온 영웅들의 고뇌와 웅장한 대륙의 서사시는, 마침내 외부 우주의 관찰자이자 조율자인 '[[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]'의 등장으로 거대한 클라이막스를 향해 교차합니다. 모든 신비와 기적은 결국 별빛의 인도자 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 곁으로 이끌리며, 장엄한 한 편의 서사(Chronicle)로 완성됩니다.
+
+---
+## [ 고전 명작 판타지의 섭리 (Classic Epic Providence) ]
+> **운명의 아티팩트:** 대륙의 역사를 관통하는 이 신물은 희생이 아니라, 사용자의 드높은 맹세와 신념에 공명하며 대자연의 결속을 일깨운다. 에반 라크라시스가 지휘하는 거대한 섭리의 한 축이다.

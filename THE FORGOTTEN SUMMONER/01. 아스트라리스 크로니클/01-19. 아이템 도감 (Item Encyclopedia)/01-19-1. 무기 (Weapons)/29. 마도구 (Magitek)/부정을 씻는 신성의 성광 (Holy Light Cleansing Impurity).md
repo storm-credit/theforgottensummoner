@@ -7,11 +7,11 @@ tags:
   - type/magitek
 aliases:
   - Holy Light Cleansing Impurity
-  - 부정을 씻는 신성의 성광
+  - [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/29. 마도구 (Magitek)/부정을 씻는 신성의 성광 (Holy Light Cleansing Impurity)]]
 type: item
 ---
 
-# 부정을 씻는 신성의 성광 (Holy Light Cleansing Impurity)
+# [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/29. 마도구 (Magitek)/부정을 씻는 신성의 성광 (Holy Light Cleansing Impurity)]] (Holy Light Cleansing Impurity)
 
 > *"우리의 기도는 단순히 눈물겨운 애원이 아닙니다. 대지를 침식하는 병균을 도려내는 매스입니다."*
 > — 이사도르의 최후의 기도
@@ -27,7 +27,7 @@ type: item
 | **가치** | 산출 불가 (마법협회 특급 비품/국보급) |
 | **현재 소유자** | [[이사도르 솔레아 (Isadore Solea)]] |
 | **세력 귀속** | [[마법협회 (Arcane Society)]] |
-| **제작자/장인** | 최초의 빛의 교단 사제장 |
+| **제작자/장인** | 최초의 빛의 교단 [[01-20. 직업 & 클래스 (Classes & Jobs)/직업 도감/08. 사제 (Cleric)]]장 |
 | **재료** | 응결된 여신의 눈물, 백금석 |
 | **거래 가능 여부** | 거래 불가 (귀속) |
 | **강화 가능 여부** | 특수 조건부 강화 / 불가 |
@@ -85,3 +85,15 @@ type: item
 ## 🔗 관련 문서
 - [[이사도르 솔레아 (Isadore Solea)]]
 - [[마법협회 (Arcane Society)]]
+
+
+> [!NOTE]
+> **[ 에픽 섭리와 유구한 운명 (Epic Providence) ]**
+> 이 위대한 기록은 아스트라리스 대륙의 장엄한 역사와 신비로운 대자연의 섭리를 품고 있습니다. 얽히고설킨 영웅들의 서사와 찬란한 기적들은, 파멸이 아닌 경이로움(Wonder)을 세계에 흩뿌리며 거대한 운명의 수레바퀴를 굴립니다.
+> 
+> **[ [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]] 개입의 낭만적 당위성 (The Anchor) ]**
+> 수백 년간 이어져 온 영웅들의 고뇌와 웅장한 대륙의 서사시는, 마침내 외부 우주의 관찰자이자 조율자인 '[[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]'의 등장으로 거대한 클라이막스를 향해 교차합니다. 모든 신비와 기적은 결국 별빛의 인도자 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 곁으로 이끌리며, 장엄한 한 편의 서사(Chronicle)로 완성됩니다.
+
+---
+## [ 고전 명작 판타지의 섭리 (Classic Epic Providence) ]
+> **운명의 아티팩트:** 대륙의 역사를 관통하는 이 신물은 희생이 아니라, 사용자의 드높은 맹세와 신념에 공명하며 대자연의 결속을 일깨운다. 에반 라크라시스가 지휘하는 거대한 섭리의 한 축이다.

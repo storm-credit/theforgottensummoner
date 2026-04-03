@@ -9,7 +9,7 @@ aliases:
   - Greatsword Imbued with Pure White Oath
 ---
 
-# 순백의 맹세가 서린 대검 (Greatsword Imbued with Pure White Oath)
+# [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/02. 양손검 (Two-handed Swords)/순백의 맹세가 서린 대검 (Greatsword Imbued with Pure White Oath)]] (Greatsword Imbued with Pure White Oath)
 
 > *"나의 맹세가 꺾이지 않는 한, 이 검신에 금이 가는 일은 영원히 없을 것이다."*
 
@@ -25,3 +25,15 @@ aliases:
 ## 3. 특수 능력 및 에테리움 플럭스 (부작용)
 - **맹약의 단죄(Condemnation of the Oath):** 검강 대신 은빛 화염의 맹약 기운을 뿜어내며, 지면을 내리칠 때마다 50미터 반경의 적을 소멸시키는 십자성(十字星) 폭발 참격을 방출합니다.
 - **에테리움 플럭스 [다공성 골상]:** 대검의 파괴적인 신성 질량을 맨몸으로 휘두르는 대가로 사용자의 뼈 질량이 마나로 전환되어, 과전투 시 사지가 마비되며 뼈가 텅텅 비는 듯한 골다공증성 고통을 수반합니다.
+
+
+> [!NOTE]
+> **[ 에픽 섭리와 유구한 운명 (Epic Providence) ]**
+> 이 위대한 기록은 아스트라리스 대륙의 장엄한 역사와 신비로운 대자연의 섭리를 품고 있습니다. 얽히고설킨 영웅들의 서사와 찬란한 기적들은, 파멸이 아닌 경이로움(Wonder)을 세계에 흩뿌리며 거대한 운명의 수레바퀴를 굴립니다.
+> 
+> **[ [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]] 개입의 낭만적 당위성 (The Anchor) ]**
+> 수백 년간 이어져 온 영웅들의 고뇌와 웅장한 대륙의 서사시는, 마침내 외부 우주의 관찰자이자 조율자인 '[[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]'의 등장으로 거대한 클라이막스를 향해 교차합니다. 모든 신비와 기적은 결국 별빛의 인도자 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 곁으로 이끌리며, 장엄한 한 편의 서사(Chronicle)로 완성됩니다.
+
+---
+## [ 고전 명작 판타지의 섭리 (Classic Epic Providence) ]
+> **운명의 아티팩트:** 대륙의 역사를 관통하는 이 신물은 희생이 아니라, 사용자의 드높은 맹세와 신념에 공명하며 대자연의 결속을 일깨운다. 에반 라크라시스가 지휘하는 거대한 섭리의 한 축이다.

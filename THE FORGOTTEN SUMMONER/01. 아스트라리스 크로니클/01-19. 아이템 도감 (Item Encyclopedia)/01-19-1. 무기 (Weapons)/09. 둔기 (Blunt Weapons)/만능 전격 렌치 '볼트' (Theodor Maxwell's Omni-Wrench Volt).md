@@ -1,10 +1,15 @@
 ---
 tags: [item/weapon, rank/legend, faction/guild_of_alchemists, type/둔기]
-aliases: [Omni-Wrench Volt, 볼트, 만능 렌치, 전격 렌치]
+aliases: [Omni-Wrench Volt, 볼트, [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/09. 둔기 (Blunt Weapons)/만능 렌치 (Omni Wrench)]], 전격 렌치]
 type: item
 ---
 
-# 만능 전격 렌치 '볼트' (Theodor Maxwell's Omni-Wrench: Volt)
+
+> [!IMPORTANT] ⚙️ 7축 거시 엔진 연동 대상 (길드/시스템)
+> 이 객체의 자격/유통/등급은 **[[6-1. 국제 길드 연합 (Guilds)]]**의 배타적 규정과 시스템 인프라를 통해 합법적으로 관리됩니다. 룰을 벗어난 배신은 플랫폼의 징계를 부릅니다.
+
+
+# [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/09. 둔기 (Blunt Weapons)/만능 전격 렌치 '볼트' (Theodor Maxwell's Omni-Wrench Volt)]] (Theodor Maxwell's Omni-Wrench: Volt)
 
 > *"수리하는 건지 때리는 건지 모르겠다고? 둘 다지!"*
 
@@ -70,7 +75,7 @@ type: item
 
 | 챕터/화 | 장면 요약 |
 |--------|----------|
-| Act 1 | 에반의 장비를 "수리"해준다며 잡아채 분해하기 시작하는 장면 |
+| Act 1 | [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 장비를 "수리"해준다며 잡아채 분해하기 시작하는 장면 |
 | Act 2 | 심연의 마도 병기 부대를 서킷 오버로드로 전부 자폭시키는 장면 (자신도 날아갔다) |
 
 ---
@@ -85,3 +90,15 @@ type: item
 ## 🔗 관련 문서
 - [[연금술사의 길드 (Guild of Alchemists)]]
 - [[02. 테오도르 맥스웰 (Theodor Maxwell)]]
+
+
+> [!NOTE]
+> **[ 에픽 섭리와 유구한 운명 (Epic Providence) ]**
+> 이 위대한 기록은 아스트라리스 대륙의 장엄한 역사와 신비로운 대자연의 섭리를 품고 있습니다. 얽히고설킨 영웅들의 서사와 찬란한 기적들은, 파멸이 아닌 경이로움(Wonder)을 세계에 흩뿌리며 거대한 운명의 수레바퀴를 굴립니다.
+> 
+> **[ [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]] 개입의 낭만적 당위성 (The Anchor) ]**
+> 수백 년간 이어져 온 영웅들의 고뇌와 웅장한 대륙의 서사시는, 마침내 외부 우주의 관찰자이자 조율자인 '[[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]'의 등장으로 거대한 클라이막스를 향해 교차합니다. 모든 신비와 기적은 결국 별빛의 인도자 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 곁으로 이끌리며, 장엄한 한 편의 서사(Chronicle)로 완성됩니다.
+
+---
+## [ 고전 명작 판타지의 섭리 (Classic Epic Providence) ]
+> **운명의 아티팩트:** 대륙의 역사를 관통하는 이 신물은 희생이 아니라, 사용자의 드높은 맹세와 신념에 공명하며 대자연의 결속을 일깨운다. 에반 라크라시스가 지휘하는 거대한 섭리의 한 축이다.

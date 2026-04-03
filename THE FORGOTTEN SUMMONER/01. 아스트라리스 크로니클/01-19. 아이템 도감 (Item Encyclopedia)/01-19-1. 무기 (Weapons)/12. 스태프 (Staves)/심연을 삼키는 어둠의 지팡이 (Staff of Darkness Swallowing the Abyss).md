@@ -7,14 +7,22 @@ tags:
   - type/staff
 aliases:
   - Staff of Darkness Swallowing the Abyss
-  - 심연을 삼키는 어둠의 지팡이
+  - [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/12. 스태프 (Staves)/심연을 삼키는 어둠의 지팡이 (Staff of Darkness Swallowing the Abyss)]]
 type: item
 ---
 
-# 심연을 삼키는 어둠의 지팡이 (Staff of Darkness Swallowing the Abyss)
+
+> [!IMPORTANT] ⚙️ 7축 거시 엔진 연동 대상 (마탑/진리)
+> 이 마법/연구/도구는 **[[6-6. 초국가 진리 연합 및 마탑 (Academia)]]**의 엄격한 라이센스 통제 및 금서 규정을 강제 받습니다. (국가 영토 권력과의 학술적/정치적 대립 구조 포함)
+
+> [!IMPORTANT] ⚙️ 7축 거시 엔진 연동 대상 (첩보/흑막)
+> 이 객체의 존재는 대륙 전역의 정보를 통제하는 **[[6-7. 그림자 첩보 조직 (Shadow Intelligence)]]**의 은폐된 정보망 및 암살률 구조 하에 귀속됩니다.
+
+
+# [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/12. 스태프 (Staves)/심연을 삼키는 어둠의 지팡이 (Staff of Darkness Swallowing the Abyss)]] (Staff of Darkness Swallowing the Abyss)
 
 > *"네가 믿는 신은 너를 구원하지 못한다. 내 어둠만이 이 지옥을 끝낼 유일한 자비다."*
-> — 이단 심문관 학살 직전
+> — [[01-20. 직업 & 클래스 (Classes & Jobs)/직업 도감/17. 이단 심문관 (Inquisitor)]] 학살 직전
 
 ---
 
@@ -60,7 +68,7 @@ type: item
 금단 서고의 최하층에 봉인되어 있던 재앙의 마도구를 마르쿠스 본인의 시야를 잃는 댓가로 제어해 낸 산물.
 
 ### 전승
-흑마법사들은 이 무기가 자신들을 참수하는 단두대의 칼날이라 칭하며 공포에 떱니다.
+[[01-20. 직업 & 클래스 (Classes & Jobs)/직업 도감/22. 흑마법사 (Warlock)]]들은 이 무기가 자신들을 참수하는 단두대의 칼날이라 칭하며 공포에 떱니다.
 
 ### 관련 캐릭터
 - [[마르쿠스 코르부스 (Marcus Corvus)]]
@@ -85,3 +93,15 @@ type: item
 ## 🔗 관련 문서
 - [[마르쿠스 코르부스 (Marcus Corvus)]]
 - [[마법협회 (Arcane Society)]]
+
+
+> [!NOTE]
+> **[ 에픽 섭리와 유구한 운명 (Epic Providence) ]**
+> 이 위대한 기록은 아스트라리스 대륙의 장엄한 역사와 신비로운 대자연의 섭리를 품고 있습니다. 얽히고설킨 영웅들의 서사와 찬란한 기적들은, 파멸이 아닌 경이로움(Wonder)을 세계에 흩뿌리며 거대한 운명의 수레바퀴를 굴립니다.
+> 
+> **[ [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]] 개입의 낭만적 당위성 (The Anchor) ]**
+> 수백 년간 이어져 온 영웅들의 고뇌와 웅장한 대륙의 서사시는, 마침내 외부 우주의 관찰자이자 조율자인 '[[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]'의 등장으로 거대한 클라이막스를 향해 교차합니다. 모든 신비와 기적은 결국 별빛의 인도자 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 곁으로 이끌리며, 장엄한 한 편의 서사(Chronicle)로 완성됩니다.
+
+---
+## [ 고전 명작 판타지의 섭리 (Classic Epic Providence) ]
+> **운명의 아티팩트:** 대륙의 역사를 관통하는 이 신물은 희생이 아니라, 사용자의 드높은 맹세와 신념에 공명하며 대자연의 결속을 일깨운다. 에반 라크라시스가 지휘하는 거대한 섭리의 한 축이다.

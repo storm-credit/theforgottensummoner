@@ -1,10 +1,10 @@
 ---
 tags: [item/weapon, rank/legendary, faction/wanderers_of_nature, type/활]
-aliases: [Breath of Wildwind, 와일드윈드의 숨결, 바람의 활, 폭풍 궁수]
+aliases: [Breath of Wildwind, [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/11. 활 (Bows)/와일드윈드의 숨결 (Rendra Wildwind's Breath of Wildwind)]], 바람의 활, 폭풍 궁수]
 type: item
 ---
 
-# 와일드윈드의 숨결 (Rendra Wildwind's Breath of Wildwind)
+# [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/11. 활 (Bows)/와일드윈드의 숨결 (Rendra Wildwind's Breath of Wildwind)]] (Rendra Wildwind's Breath of Wildwind)
 
 > *"화살이 날아가는 방향이 바람이 가는 방향이다."*
 
@@ -39,7 +39,7 @@ type: item
 
 ### 고유 능력
 
-**게일 포스 (Gale Force)**
+**[[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/06. 단검 (Daggers)/게일 포스 (Gale Force)]] (Gale Force)**
 > 화살을 날리면서 주변 공기를 강제로 흡입해 위력을 증폭시킨다. 화살이 비행하는 동안 계속 가속되어 목표물에 도달할 때 초기 속도의 3~5배에 달한다. 관통한 적 뒤로 원뿔형 충격파가 발생하여 후방 대열을 쓸어버린다. 성벽 관통 가능.
 
 ### 보조 능력
@@ -56,7 +56,7 @@ type: item
 바람의 일족에서는 성인식 날 가장 먼 곳에 날아가 살아 돌아온 자에게 전승 장인이 직접 활을 제작해 주는 전통이 있다. 렌드라는 성인식 날 사흘 만에 대륙 끝에서 돌아왔다 — 등에는 당시 아무도 본 적 없는 풍왕의 깃털을 꽂고. 장인은 처음에는 믿지 않았다가, 그 깃털에서 풍왕의 마력이 실제로 감지되자 말없이 작업실로 들어가 사흘간 문을 잠갔다. 완성된 활을 건네며 한 마디만 했다. "이건 내가 만든 게 아니야. 바람이 만든 거지."
 
 ### 전승
-'와일드윈드의 숨결'이라는 이름은 렌드라 가문의 이름을 그대로 담은 것이다. 이 활을 손에 들면 바람의 방향이 느껴지고, 활을 내려놓으면 바람이 잠시 잦아든다고 한다.
+'[[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/11. 활 (Bows)/와일드윈드의 숨결 (Rendra Wildwind's Breath of Wildwind)]]'이라는 이름은 렌드라 가문의 이름을 그대로 담은 것이다. 이 활을 손에 들면 바람의 방향이 느껴지고, 활을 내려놓으면 바람이 잠시 잦아든다고 한다.
 
 ### 관련 캐릭터
 - [[02. 렌드라 와일드윈드 (Rendra Wildwind)]]
@@ -68,8 +68,8 @@ type: item
 
 | 챕터/화 | 장면 요약 |
 |--------|----------|
-| Act 2 | 성벽 너머의 표적을 게일 포스로 관통하는 저격 장면 |
-| Act 4 | 에반의 마법 발판 위에서 도약해 비행형 몬스터를 연속 사격하는 공중 콤보 |
+| Act 2 | 성벽 너머의 표적을 [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/06. 단검 (Daggers)/게일 포스 (Gale Force)]]로 관통하는 저격 장면 |
+| Act 4 | [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 마법 발판 위에서 도약해 비행형 몬스터를 연속 사격하는 공중 콤보 |
 
 ---
 
@@ -83,3 +83,15 @@ type: item
 ## 🔗 관련 문서
 - [[자연의 방랑자 (Wanderers of Nature)]]
 - [[02. 렌드라 와일드윈드 (Rendra Wildwind)]]
+
+
+> [!NOTE]
+> **[ 에픽 섭리와 유구한 운명 (Epic Providence) ]**
+> 이 위대한 기록은 아스트라리스 대륙의 장엄한 역사와 신비로운 대자연의 섭리를 품고 있습니다. 얽히고설킨 영웅들의 서사와 찬란한 기적들은, 파멸이 아닌 경이로움(Wonder)을 세계에 흩뿌리며 거대한 운명의 수레바퀴를 굴립니다.
+> 
+> **[ [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]] 개입의 낭만적 당위성 (The Anchor) ]**
+> 수백 년간 이어져 온 영웅들의 고뇌와 웅장한 대륙의 서사시는, 마침내 외부 우주의 관찰자이자 조율자인 '[[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]'의 등장으로 거대한 클라이막스를 향해 교차합니다. 모든 신비와 기적은 결국 별빛의 인도자 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 곁으로 이끌리며, 장엄한 한 편의 서사(Chronicle)로 완성됩니다.
+
+---
+## [ 고전 명작 판타지의 섭리 (Classic Epic Providence) ]
+> **운명의 아티팩트:** 대륙의 역사를 관통하는 이 신물은 희생이 아니라, 사용자의 드높은 맹세와 신념에 공명하며 대자연의 결속을 일깨운다. 에반 라크라시스가 지휘하는 거대한 섭리의 한 축이다.

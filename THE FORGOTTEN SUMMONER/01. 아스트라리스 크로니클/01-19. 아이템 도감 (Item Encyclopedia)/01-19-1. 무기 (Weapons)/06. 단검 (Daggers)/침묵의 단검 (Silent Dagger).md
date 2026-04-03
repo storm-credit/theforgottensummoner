@@ -7,11 +7,19 @@ tags:
   - type/dagger
 aliases:
   - Silent Dagger
-  - 침묵의 단검
+  - [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/06. 단검 (Daggers)/침묵의 단검 (Silent Dagger)]]
 type: item
 ---
 
-# 침묵의 단검 (Silent Dagger)
+
+> [!IMPORTANT] ⚙️ 7축 거시 엔진 연동 대상 (상단/자본)
+> 이 객체는 세계관의 경제를 쥐고 흔드는 **[[6-2. 대륙 무역 상단 (Syndicates)]]** 혹은 기축 통화를 쥔 **[[6-5. 철의 금융 카르텔 (Iron Bank)]]**의 밀거래, 매점매석, 채무 구조와 결탁되어 있습니다.
+
+> [!IMPORTANT] ⚙️ 7축 거시 엔진 연동 대상 (첩보/흑막)
+> 이 객체의 존재는 대륙 전역의 정보를 통제하는 **[[6-7. 그림자 첩보 조직 (Shadow Intelligence)]]**의 은폐된 정보망 및 암살률 구조 하에 귀속됩니다.
+
+
+# [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/06. 단검 (Daggers)/침묵의 단검 (Silent Dagger)]] (Silent Dagger)
 
 > *"들리지 않는 상처가 가장 깊다."*
 > — 라이너스 발렌타인
@@ -73,7 +81,7 @@ type: item
 
 | 챕터/화 | 장면 요약 |
 |--------|----------|
-| Act 2 | 실라스 침투 작전에서 라이너스가 에반과 협력하는 장면 |
+| Act 2 | 실라스 침투 작전에서 라이너스가 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]과 협력하는 장면 |
 
 ---
 
@@ -88,3 +96,15 @@ type: item
 - [[06. 라이너스 발렌타인 (Linus Valentine)]]
 - [[2. 왕국연합 (Allied Kingdoms)]]
 - [[7. 골드리프 (Goldleaf)]]
+
+
+> [!NOTE]
+> **[ 에픽 섭리와 유구한 운명 (Epic Providence) ]**
+> 이 위대한 기록은 아스트라리스 대륙의 장엄한 역사와 신비로운 대자연의 섭리를 품고 있습니다. 얽히고설킨 영웅들의 서사와 찬란한 기적들은, 파멸이 아닌 경이로움(Wonder)을 세계에 흩뿌리며 거대한 운명의 수레바퀴를 굴립니다.
+> 
+> **[ [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]] 개입의 낭만적 당위성 (The Anchor) ]**
+> 수백 년간 이어져 온 영웅들의 고뇌와 웅장한 대륙의 서사시는, 마침내 외부 우주의 관찰자이자 조율자인 '[[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]'의 등장으로 거대한 클라이막스를 향해 교차합니다. 모든 신비와 기적은 결국 별빛의 인도자 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 곁으로 이끌리며, 장엄한 한 편의 서사(Chronicle)로 완성됩니다.
+
+---
+## [ 고전 명작 판타지의 섭리 (Classic Epic Providence) ]
+> **운명의 아티팩트:** 대륙의 역사를 관통하는 이 신물은 희생이 아니라, 사용자의 드높은 맹세와 신념에 공명하며 대자연의 결속을 일깨운다. 에반 라크라시스가 지휘하는 거대한 섭리의 한 축이다.

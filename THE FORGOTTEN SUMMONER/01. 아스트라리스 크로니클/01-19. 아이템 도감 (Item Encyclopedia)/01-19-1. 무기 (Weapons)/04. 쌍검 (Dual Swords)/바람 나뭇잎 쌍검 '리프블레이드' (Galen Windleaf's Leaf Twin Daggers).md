@@ -4,7 +4,7 @@ aliases: [Leaf Twin Daggers, 윈드리프의 쌍단검, 나뭇잎 단검, 바람
 type: item
 ---
 
-# 바람 나뭇잎 쌍검 '리프블레이드' (Galen Windleaf's Leaf Twin Daggers)
+# [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/04. 쌍검 (Dual Swords)/바람 나뭇잎 쌍검 '리프블레이드' (Galen Windleaf's Leaf Twin Daggers)]] (Galen Windleaf's Leaf Twin Daggers)
 
 > *"무거운 무기는 내 스타일이 아니야. 바람처럼 가볍게, 나뭇잎처럼 날카롭게."*
 
@@ -71,7 +71,7 @@ type: item
 
 | 챕터/화 | 장면 요약 |
 |--------|----------|
-| Act 2 | 소매치기 손기술 연계로 중갑 기사의 방어를 뚫어내는 장면 |
+| Act 2 | 소매치기 손기술 연계로 [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/01. 중갑 (Heavy Armor)/01. 중갑 (Heavy Armor)]] [[01-20. 직업 & 클래스 (Classes & Jobs)/직업 도감/06. 기사 (Knight)]]의 방어를 뚫어내는 장면 |
 | Act 3 | 리프 스톰으로 심연 잡몹 무리를 광역 처리하며 성장하는 모습 |
 
 ---
@@ -86,3 +86,15 @@ type: item
 ## 🔗 관련 문서
 - [[자연의 방랑자 (Wanderers of Nature)]]
 - [[12. 갈렌 윈드리프 (Galen Windleaf)]]
+
+
+> [!NOTE]
+> **[ 에픽 섭리와 유구한 운명 (Epic Providence) ]**
+> 이 위대한 기록은 아스트라리스 대륙의 장엄한 역사와 신비로운 대자연의 섭리를 품고 있습니다. 얽히고설킨 영웅들의 서사와 찬란한 기적들은, 파멸이 아닌 경이로움(Wonder)을 세계에 흩뿌리며 거대한 운명의 수레바퀴를 굴립니다.
+> 
+> **[ [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]] 개입의 낭만적 당위성 (The Anchor) ]**
+> 수백 년간 이어져 온 영웅들의 고뇌와 웅장한 대륙의 서사시는, 마침내 외부 우주의 관찰자이자 조율자인 '[[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]'의 등장으로 거대한 클라이막스를 향해 교차합니다. 모든 신비와 기적은 결국 별빛의 인도자 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 곁으로 이끌리며, 장엄한 한 편의 서사(Chronicle)로 완성됩니다.
+
+---
+## [ 고전 명작 판타지의 섭리 (Classic Epic Providence) ]
+> **운명의 아티팩트:** 대륙의 역사를 관통하는 이 신물은 희생이 아니라, 사용자의 드높은 맹세와 신념에 공명하며 대자연의 결속을 일깨운다. 에반 라크라시스가 지휘하는 거대한 섭리의 한 축이다.

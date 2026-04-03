@@ -1,10 +1,15 @@
 ---
 tags: [item/weapon, rank/legendary, faction/pirate_federation, type/쌍검]
-aliases: [Fang of Leviathan, 리바이어던의 이빨, 크라켄 사냥꾼의 도끼, 심해 쌍도끼]
+aliases: [Fang of Leviathan, [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/03. 쌍검 (Dual Swords)/리바이어던의 이빨 (Fang of Leviathan)]], 크라켄 사냥꾼의 도끼, 심해 쌍도끼]
 type: item
 ---
 
-# 리바이어던의 이빨 (Fang of Leviathan)
+
+> [!IMPORTANT] ⚙️ 7축 거시 엔진 연동 대상 (길드/시스템)
+> 이 객체의 자격/유통/등급은 **[[6-1. 국제 길드 연합 (Guilds)]]**의 배타적 규정과 시스템 인프라를 통해 합법적으로 관리됩니다. 룰을 벗어난 배신은 플랫폼의 징계를 부릅니다.
+
+
+# [[01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/03. 쌍검 (Dual Swords)/리바이어던의 이빨 (Fang of Leviathan)]] (Fang of Leviathan)
 
 > *"이 세상에서 가장 큰 이빨로 만든 도끼. 이보다 더 사나운 게 있겠어?"*
 
@@ -25,7 +30,7 @@ type: item
 
 ## 성능 및 효과
 
-### 기본 스탯
+### 기본 물리적 에테르 척도
 - **공격력**: 1,800 ~ 2,900 (쌍)
 - **공격 속도**: 보통
 - **속성**: 물리 / 독 (Poison — 해수의 독소 잔류)
@@ -57,7 +62,7 @@ type: item
 ## 등장 장면
 
 - 거대 해수와 싸우는 드레이크의 도끼질 — 괴물의 살이 도끼에 찢기는 생생한 묘사
-- 에반과의 사냥 내기 중 드레이크가 도끼로 해수를 단 두 번 만에 잡아버리는 장면
+- [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]과의 사냥 내기 중 드레이크가 도끼로 해수를 단 두 번 만에 잡아버리는 장면
 
 ---
 
@@ -73,3 +78,15 @@ type: item
 
 - [[해적 연합 (Pirate Federation)]]
 - [[03. 드레이크 크라켄베인 (Drake Krakenbane)]]
+
+
+> [!NOTE]
+> **[ 에픽 섭리와 유구한 운명 (Epic Providence) ]**
+> 이 위대한 기록은 아스트라리스 대륙의 장엄한 역사와 신비로운 대자연의 섭리를 품고 있습니다. 얽히고설킨 영웅들의 서사와 찬란한 기적들은, 파멸이 아닌 경이로움(Wonder)을 세계에 흩뿌리며 거대한 운명의 수레바퀴를 굴립니다.
+> 
+> **[ [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]] 개입의 낭만적 당위성 (The Anchor) ]**
+> 수백 년간 이어져 온 영웅들의 고뇌와 웅장한 대륙의 서사시는, 마침내 외부 우주의 관찰자이자 조율자인 '[[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]'의 등장으로 거대한 클라이막스를 향해 교차합니다. 모든 신비와 기적은 결국 별빛의 인도자 [[01-15. 인물 백과 (Character Archive)/0. 주인공 일행 (Main Characters)/에반 라크라시스 (Evan)]]의 곁으로 이끌리며, 장엄한 한 편의 서사(Chronicle)로 완성됩니다.
+
+---
+## [ 고전 명작 판타지의 섭리 (Classic Epic Providence) ]
+> **운명의 아티팩트:** 대륙의 역사를 관통하는 이 신물은 희생이 아니라, 사용자의 드높은 맹세와 신념에 공명하며 대자연의 결속을 일깨운다. 에반 라크라시스가 지휘하는 거대한 섭리의 한 축이다.
